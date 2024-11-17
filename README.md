@@ -6,14 +6,18 @@
 [![GitHub license](https://img.shields.io/github/license/bertoldi-collab/textile-hinge-metamaterials?labelColor=34495e)](https://github.com/bertoldi-collab/textile-hinge-metamaterials/blob/main/LICENSE)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbertoldi-collab%2Ftextile-hinge-metamaterials&count_bg=%2327AE60&title_bg=%2334495E&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
 https://github.com/user-attachments/assets/6cee37df-307e-491b-a4bb-d9473f882864
 
+## 📜 Paper
 
 Code and data for the paper:
 
 [A. S. Meeussen, G. Bordiga, A. X. Chang, B. Spoettling, K. P. Becker, L. Mahadevan, and K. Bertoldi. Textile hinges enable extreme properties of kirigami metamaterials. _Adv. Funct. Mater._ 2024](https://doi.org/10.1002/adfm.202415986)
 
+## Dependencies
+
+- [`DifFlexMM`](https://github.com/bertoldi-collab/DifFlexMM) for simulations and optimizations of the metamaterials
+- `ezdxf`
 
 ## 📝 Citation
 
