@@ -8,6 +8,8 @@
 
 https://github.com/user-attachments/assets/6cee37df-307e-491b-a4bb-d9473f882864
 
+https://github.com/user-attachments/assets/45566b16-bde6-48d8-ac40-eb331d49c302
+
 ## 📜 Paper
 
 Code and data for the paper:
