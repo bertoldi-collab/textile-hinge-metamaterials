@@ -16,7 +16,7 @@ Code and data for the paper:
 
 ## Dependencies
 
-- [`DifFlexMM`](https://github.com/bertoldi-collab/DifFlexMM) for simulations and optimizations of the metamaterials
+- [`DifFlexMM`](https://github.com/bertoldi-collab/DifFlexMM) for metamaterial simulations and optimizations
 - `ezdxf`
 
 ## 📝 Citation
