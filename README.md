@@ -28,10 +28,10 @@ If you use this code in your research or anywhere, please cite the paper:
 ```bibtex
 @article{meeussen_2024,
     title   = {Textile hinges enable extreme properties of kirigami metamaterials},
-    author  = {Bordiga, Giovanni and Medina, Eder and Jafarzadeh, Sina and B{\"o}sch, Cyrill and Adams, Ryan P. and Tournat, Vincent and Bertoldi, Katia},
+    author  = {Meeussen, A. S. and Bordiga, G. and Chang, A. X. and Spoettling, B. and Becker, K. P. and Mahadevan, L. and Bertoldi, K.},
     year    = {2024},
     journal = {Advanced Functional Materials},
-    pages   = {202415986},
+    pages   = {2415986},
     doi     = {10.1002/adfm.202415986},
 }
 ```
